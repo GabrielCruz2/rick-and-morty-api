@@ -1,1 +1,1 @@
-# rick-and-morty
+# rick-and-morty by Cruz
